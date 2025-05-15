@@ -1,41 +1,55 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&text=Welcome%20to%20My%20GitHub&fontAlign=50&fontAlignY=40&desc=Hoseon's%20Profile&descAlign=50&descAlignY=60)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=180&text=Hi%20there!%20I'm%20Hoseon&fontAlign=50&fontAlignY=40&fontSize=30)
 
-## 👋 Hi there! I'm Hoseon
-
-🚀 4th-year AI Autonomous Systems Engineering student at Korea Aerospace University  
-🛰️ Interested in Autonomous Driving, Satellite Imaging, and Embedded AI  
-💻 Favorite tools: Python, ROS2, Docker, Webots, PyTorch, VS Code
+<p align="center">
+  <strong>4th-year AI Autonomous Systems Engineering student at Korea Aerospace University</strong><br>
+  💡 Passionate about Autonomous Driving, Embedded AI, and Satellite Imaging<br>
+  🌱 Continuously learning to become an engineer who connects technology and people
+</p>
 
 ---
 
-## 🛠️ Tech Stack
+## 🔧 Tech Stack
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white)
-![ROS2](https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ROS&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
+### 💻 Programming Languages  
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2b%2b&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+### 🧠 AI/ML Framework  
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+
+### 🛢️ Database  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+### 🐳 DevOps / Tools  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+### 🧑‍💼 Collaboration & Docs  
+![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)
+![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white)
 
 ---
 
 ## 📊 GitHub Stats
 
-![Hoseon's GitHub stats](https://github-readme-stats.vercel.app/api?username=hoseongi&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hoseongi&layout=compact)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hoseongi&show_icons=true&theme=default" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoseongi&layout=compact&theme=default" height="165">
+</p>
 
 ---
 
-## ✨ Dynamic Typing
+## 📬 Contact me
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F7DF1E&center=true&vCenter=true&width=435&lines=Hello+World!;Welcome+to+my+GitHub+Profile!)
-
----
-
-## 📈 Visitors
-
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhoseongi&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=visits&edge_flat=false)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/_seon_0304/)
+[![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)](https://www.notion.so/Profile-1f41014025188028b2b7cae0aaf8e526?pvs=4)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/hoseongi)
+[![Naver](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=naver&logoColor=white)](mailto:hsmb1612@naver.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:rlghtjs0304@gmail.com)
 
 ---
 
-## 🧩 Baekjoon Tier
-
-![mazandi profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hemb1612)
+<p align="center">
+  💙 Thank you for visiting my profile! 💙
+</p>
