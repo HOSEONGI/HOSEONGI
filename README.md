@@ -8,7 +8,7 @@
 
 ---
 
-## 🔧 Tech Stack
+## Tech Stack
 
 ### 💻 Programming Languages  
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white)
@@ -40,16 +40,14 @@
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white)
 ---
 
-## 🌱 Currently Learning
+## Currently Learning
 
-- Data Analysis & Visualization (Pandas · NumPy · Matplotlib · Seaborn)
-- Data Preprocessing & Feature Engineering
-- Basic ML with Scikit-learn  
-- Education: KT Aivle School – DX(Digital Transformation) Track | 2025.03.~ ING
+Education: KT Aivle School – DX(Digital Transformation) Track | 2025.03.~ ING
+   - Data Analysis & Visualization (Pandas · NumPy · Matplotlib · Seaborn)
+   - Data Preprocessing & Feature Engineering
+   - Basic ML with Scikit-learn  
 
 ---
-
-## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=hoseongi&show_icons=true&theme=default" height="165">
@@ -58,7 +56,7 @@
 
 ---
 
-## 📬 Contact me
+## ℡ Contact me
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/_seon_0304/)
 [![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)](https://www.notion.so/Profile-1f41014025188028b2b7cae0aaf8e526?pvs=4)
