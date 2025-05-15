@@ -38,4 +38,4 @@
 
 ## 🧩 Baekjoon Tier
 
-![mazandi profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=your_boj_id)
+![mazandi profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hemb1612)
