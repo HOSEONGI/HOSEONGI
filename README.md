@@ -43,7 +43,7 @@
 - Data Analysis & Visualization (Pandas · NumPy · Matplotlib · Seaborn)
 - Data Preprocessing & Feature Engineering
 - Basic ML with Scikit-learn  
-- Education: KT Aivle School – Data Analysis Track
+- Education: KT Aivle School – DX(Digital Transformation) Track | 2025.03.~ ING
 
 ---
 
