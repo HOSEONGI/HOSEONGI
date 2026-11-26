@@ -24,6 +24,7 @@
 
 - **MUM-T Sensor Fusion and Mission Autonomy Algorithm Development** — funded by KRIT, in collaboration with KAI (2026.02 – present)
 - **Integrated Control System Technology for Combat Unmanned Surface Vessels** — funded by KRIT, in collaboration with LIG D&A (2026.09 – present)
+- **AI Core Technologies for Autonomous Operation and Survivability in Cooperative High-Speed UAVs** — in collaboration with KAI (2026.11 – present)
 - **Bird-Strike Prediction Survey and Bird Behavior Modeling** — funded by KARI (2026.07 – 2026.11)
 
 <sub>KRIT: Korea Research Institute for Defense Technology Planning and Advancement · KARI: Korea Aerospace Research Institute</sub>
