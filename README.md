@@ -85,7 +85,6 @@
 
 ## ℡ Contact
 
-[![Homepage](https://img.shields.io/badge/Homepage-000000?style=flat-square&logo=vercel&logoColor=white)](https://profilehomepage.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hoseon)
 [![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)](https://www.notion.so/Profile-1f41014025188028b2b7cae0aaf8e526?pvs=4)
 [![Naver](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=naver&logoColor=white)](mailto:hsmb1612@naver.com)
